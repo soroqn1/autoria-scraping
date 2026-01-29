@@ -1,0 +1,9 @@
+httpx
+selectolax
+sqlalchemy[asyncio]
+asyncpg
+apscheduler
+python-dotenv
+pydantic-settings
+psycopg2-binary
+playwright
